@@ -1,0 +1,3 @@
+CFireTower 2 3 3
+CFreezeTower 2 5 3
+CSniperTower 5 4 10

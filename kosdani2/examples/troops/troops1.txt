@@ -1,0 +1,4 @@
+CShieldTroop 1 5 20 3
+CFlyingTroop 2 5 20
+CGroundTroop 1 10 10
+CGroundTroop 1 30 30
