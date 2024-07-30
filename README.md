@@ -2,7 +2,7 @@
 
 ## Overview
 
-This C++ program written as a semestral project for a C++ programming class implements a two-dimensional console 'tower attack' game. The game's concept is similar to that of a regular tower attack game, except the player's goal here is to strategically buy and deploy troops so that they can push through the computer's defense and destroy the its base.
+This C++ program written as a semestral project for a C++ programming class implements a two-dimensional console 'tower attack' game. The game's concept is similar to that of a regular tower attack game, except the player's goal here is to strategically buy and deploy troops so that they can push through the computer's defense and destroy its base.
 
 ## Features
 
